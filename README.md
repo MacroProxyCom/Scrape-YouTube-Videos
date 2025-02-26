@@ -1,7 +1,7 @@
 # Scrape-YouTube-Videos
 Comprehensive Guide to Scraping YouTube Data with Proxies.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f862414d-219e-4cf4-a0d7-6adf7924ba50)
 
 # What Data Can Be Scraped from YouTube?
 Before diving into the technical setup for scraping YouTube, it’s important to understand the types of data you can extract:
